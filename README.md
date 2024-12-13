@@ -1,1 +1,1 @@
-# FTLinxSDK_v1
+# FTLinxSDK_V2
